@@ -1,0 +1,6 @@
+nof = int(input("enter the minutes passes since midnight:"))
+Hours = (nof // 60)
+minutes = (nof % 60)
+print(f"the hours is {Hours}")
+print(f" the minute is {minutes}")
+print( "Hours" ,"minutes")
