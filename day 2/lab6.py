@@ -16,4 +16,4 @@ print("the total time to reach to the university by walkikng : " , totaltime1)
 if totaltime1>total_time:
     print("walking is faster to reach university")
 else:
-    print("going by the bus is fasterthan walking")
+    print("going by the bus is faster than walking")
